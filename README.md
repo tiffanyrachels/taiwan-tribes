@@ -64,9 +64,13 @@ Image Quality and Consistency: The quality and consistency of the images in the 
 
 # Contributors
 Ronald (110501071) = Project manager
+
 Tiffany (112ZU1028) = Programmer
+
 Pancake (112ZU1029) = Member (data collector)
+
 Mill (112ZU1031) = Member (data collector)
+
 Cindy (112ZU1021) = Member (data collector)
 
 # Announcement: Addressing Data Collection and Totem Misidentification Challenges
@@ -87,8 +91,13 @@ We are committed to the respectful and accurate representation of indigenous cul
 
 # Acknowledgement
 We would like to express our deepest gratitude to the Professor. Pien for his invaluable guidance, support, and encouragement throughout this project. His expertise and insights have been instrumental in shaping our research and refining our AI model. We also extend our heartfelt thanks to the all attendances during the exhibition on 6/6 for their invaluable feedback. Additionally, we are grateful to all the owners of the images that provided the data sources, without which this project would not have been possible. Your contributions have been crucial in helping us preserve and promote the rich cultural traditions of Taiwanese indigenous tribes. Thank you for your unwavering support and collaboration.
+
 Sincerely,
+
 Contact Info.
+
 [Ronald, Tiffany, Pancake, Mill, Cindy.] 
+
 [E-mail: 110501071@nccu,edu,tw / 886+ 968952611 ] 
+
 [Group G/ AI Introduction course / National ChengChi University]
