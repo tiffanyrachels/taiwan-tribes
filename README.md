@@ -10,15 +10,25 @@ This project is important for several reasons. It addresses the risk of cultural
 # Getting Started
 ## Prerequisites
 Google Colab
+
 TensorFlow
+
 Keras
+
 NumPy
+
 Pandas
+
 PIL (Python Imaging Library)
+
 Python 3.x
+
 scikit-learn
+
 Matplotlib
+
 Gradio
+
 Google Drive (for dataset storage)
 
 ## Installation
@@ -36,10 +46,10 @@ from google.colab import drive drive.mount('/content/gdrive')
 
 # Analysis
 ## Data preparation
-Load images from the specified directories.
-Preprocess images by resizing them to (224, 224) and normalising pixel values.
-Encode labels for Tawu as 1 and Taiya as 0.
-Split the dataset into training and testing sets using an 80-20 split.
+- Load images from the specified directories.
+- Preprocess images by resizing them to (224, 224) and normalising pixel values.
+- Encode labels for Tawu as 1 and Taiya as 0.
+- Split the dataset into training and testing sets using an 80-20 split.
 
 ## Model Training
 Initial Model:
