@@ -40,8 +40,11 @@ from google.colab import drive drive.mount('/content/gdrive')
 
 # File Structure
 - /content/gdrive/MyDrive/2 AI Dataset/
+
 雅美族(達悟族) Plan B/: Contains images of Tawu.
+
 泰雅族 (Plan B)/: Contains images of Taiya.
+
 - model_resnet50v2.h5: The saved model after training and fine-tuning.
 
 # Analysis
